@@ -1,1 +1,1 @@
-This project is a simple quiz application developed using C# and Windows Forms. The application presents questions to the user and gives them options to choose the correct answer. The results of the quiz are displayed along with the user's number of correct and incorrect answers.
+This project is a simple quiz application developed using C# and Windows Forms. The application presents questions to the user and gives them options to choose the correct answer. The results of the quiz are displayed along with the user's number of correct and incorrect answers..
